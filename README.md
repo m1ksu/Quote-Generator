@@ -1,2 +1,2 @@
-# Quote-Generator
-title says it all
+# Quote Generator
+Uses HTTP request to put famous quotes on your screen.
